@@ -1,0 +1,4 @@
+vaibhavdeshmukh5121_db_user
+ZLYS4MLFZybxX0d7
+
+mongodb+srv://vaibhavdeshmukh5121_db_user:<db_password>@cluster0.cwmfplu.mongodb.net/?appName=Cluster0
